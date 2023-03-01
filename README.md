@@ -1,4 +1,13 @@
 # Build and Deploy Your Own ChatGPT AI Application That Will Help You Code
-![Open AI CodeGPT](https://i.ibb.co/LS4DRhb/image-257.png)
-
-### Launch your development career with project-based coaching - https://www.jsmastery.pro
+### How to run -
+### git clone the repository 
+### ```cd project_openai_codex```
+### ```cd server```
+### ```npm install ```
+### ```cd ..```
+### ```cd client```
+### ```npm install```
+### ```npm run dev```
+### Now, go to a new terminal and, 
+### ```cd server```
+### ```npm run server```
